@@ -1,9 +1,9 @@
 # BLDC_ESC
-The TRI-Motion_16A_34s_R00 is a brushless DC motor electronic speed conroller. 
+The TRI-Motion_16A_34S_R00 is a brushless DC motor electronic speed conroller. 
 Utilizing the STM32F405RGT6 Microcontoller. 
 
-3s<Vin<4s --> s = one LI-ION 18650 battery. 
-Imax = 16A 
+3s<Vin<4s --> S = one LI-ION 18650 battery. 
+Imax = 16A.
 input control circuit will be added in the next revision. 
 
 Credit to PhilsLab youtube channel for the circuit!
